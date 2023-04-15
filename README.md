@@ -1,2 +1,5 @@
-# gcp-devops-project
-#### This is a repo for new GCP project
+# Docker flask application
+
+- This application is written in python
+- It shall be deployed on GKE
+
