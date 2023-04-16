@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: gcp-devops-gke
-        image: gcr.io/My Project 25180/gcpdevops
+        image: gcr.io/noted-ensign-377902/gcpdevops
         ports:
         - containerPort: 5000
         env: 
